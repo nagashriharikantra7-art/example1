@@ -3,3 +3,4 @@ Some new work
 line1
 line2
 line3
+featurec
